@@ -11,11 +11,6 @@
   "compatibility_date": "2026-06-18",
   "assets": {
     "directory": "/" },
-
-      "resources": {
-        "com.cloudflare.api.account.1cf19c8ffa19573d57346dcf93d315f2": "*"
-      
-    },
   
 
 }
