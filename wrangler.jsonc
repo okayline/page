@@ -1,0 +1,8 @@
+{
+  "r2_buckets": [
+    {
+      "binding": "bind1", // <~ valid JavaScript variable name
+      "bucket_name": "buck1"
+    }
+  ]
+}

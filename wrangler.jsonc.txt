@@ -1,8 +1,0 @@
-{
-  "r2_buckets": [
-    {
-      "binding": "MY_BUCKET", // <~ valid JavaScript variable name
-      "bucket_name": "<YOUR_BUCKET_NAME>"
-    }
-  ]
-}
