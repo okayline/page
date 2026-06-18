@@ -4,8 +4,7 @@
       "binding": "bind1", // <~ valid JavaScript variable name
       "bucket_name": "buck1"
     }
-  ]
-},
+  ],
 
   "name": "worker-name",
   "compatibility_date": "2026-06-18",
