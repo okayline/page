@@ -9,11 +9,8 @@
   "name": "page",
   "compatibility_date": "2026-06-18",
   "assets": {
-    "directory": "/"     },
-
-
-  "name": "[R2 Data Catalog] Table Maintenance: buck1",
-  "policies": [
+    "directory": "/" ,
+   "policies": [
     {
       "effect": "allow",
       "permission_groups": [
